@@ -57,4 +57,4 @@ bot.on('ready',function(){
 
 bot.login(TOKEN);
 
-client.login(process.env.NTI0MDQwOTkyNTcyMTc4NDMz.DvtKzQ.MZ1XRGESMYiVxAbWs-m2LyBdMsQ);
+client.login(process.env.BOT_TOKEN);
